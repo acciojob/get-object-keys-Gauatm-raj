@@ -1,5 +1,5 @@
 const student = {
-	name: navin
+	name: "Gautam"
 }
 
 Object.prototype.getKeys = function() {
